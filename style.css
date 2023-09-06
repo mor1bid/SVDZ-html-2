@@ -1,0 +1,32 @@
+.ant {
+    text-decoration: gold;
+}
+
+.url {
+    color: cornflowerblue;
+    line-height: 20px;
+    font-size: 16;
+}
+
+h1 {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+p {
+    font-style:normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30;
+    color: #7D7987
+}
+
+h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
